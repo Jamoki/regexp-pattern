@@ -1,6 +1,6 @@
 {
   "name": "regexp-pattern",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common regular expression patterns",
   "main": "dist/regExpPattern.js",
   "scripts": {
