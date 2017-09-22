@@ -1,4 +1,5 @@
 export const regExpPattern = {
+  areaCode: /^\d{3}$/,
   phone: /^\(?(\d{3})\)?[- ]?(\d{3})[- ]?(\d{4})$/,
   ext: /^x? *(\d{1,6})$/,
   ssn: /^\d{3}-\d{2}-\d{4}$/,
