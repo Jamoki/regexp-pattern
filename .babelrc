@@ -1,6 +1,8 @@
 {
   "presets": [
-    ["env", { "targets": { "node": 8, "chrome": 60, "uglify": true } }]
-  ],
-  "plugins": []
+    [
+      "@babel/preset-env",
+      { "targets": { "node": 8, "chrome": 60, "uglify": true } }
+    ]
+  ]
 }
